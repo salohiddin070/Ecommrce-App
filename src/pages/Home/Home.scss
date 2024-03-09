@@ -1,0 +1,39 @@
+.my-icon {
+  width: 50px;
+  height: 50px;
+  border-radius: 50%;
+  text-align: center;
+  line-height: 50px;
+  background: rgb(110, 139, 139);
+  color: white;
+  position: absolute;
+  top: 50%;
+  transform: translateY(-50%);
+  z-index: 999;
+  font-size: 30px;
+  cursor: pointer;
+}
+.my-icon-right {
+  right: -20px;
+}
+.my-icon-left {
+  // left: -20px;
+  // margin-left: 10px;
+}
+.homee{
+    background: whitesmoke;
+}
+.bgg{
+    background: rgb(161, 219, 200);
+    width: 90px;
+    height: 3px;
+    margin: 0 auto;
+    margin-bottom: 15px;
+}
+.card{
+  background-color: white;
+
+}
+.card-body .card{
+    background: white;
+}
